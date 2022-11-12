@@ -7,3 +7,5 @@ if person.key?(:hobbies)
 else
 	puts "idk"
 end
+
+#I messed up the difference between key and value here. 
